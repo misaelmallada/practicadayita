@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(206, 205, 205);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h2 {
+    background-color: gray;
+    color: white;
+    padding: 4px;
+    padding-right: 1000px;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    width: 45%;
+}
+
+p {
+    padding-left: 10px;
+    text-indent: 30px;
+}
+
+em {
+    color: red;
+    font-style: oblique;
+}
+
+strong {
+    background-color: white;
+}
+
+img {
+    height: 210px;
+    width: 210px;
+}
