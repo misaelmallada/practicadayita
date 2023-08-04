@@ -1,0 +1,6 @@
+1- Daya: Cambiar color de fondo de la pagina
+2- Misa: Cambiar color de fondo de los titulos (HTML 5 y CSS 3)
+3- Daya: Cambiar color de texto: 28 de octubre de 2014
+4- Misa: Mover imagen HTML hacia la izquierda
+5- Misa: Mover imagen CSS hacia la izquierda
+6- Daya: Agregar estilos a los 2 parrafos.
